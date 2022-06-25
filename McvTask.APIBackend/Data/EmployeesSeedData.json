@@ -1,0 +1,23 @@
+[
+   {
+      "employeeName": "mark",
+      "birthDate": "1996-06-24",
+      "employeeTitle": "software developer",
+      "hiringDate": "2022-06-24T17:50:05.313",
+      "departmentId": 2
+   },
+   {
+      "employeeName": "John",
+      "birthDate": "1987-09-13",
+      "employeeTitle": "Hr manager",
+      "hiringDate": "2022-06-24T17:50:05.313",
+      "departmentId": 1
+   },
+   {
+      "employeeName": "mariam",
+      "birthDate": "1970-06-24",
+      "employeeTitle": "Accountant",
+      "hiringDate": "2022-06-24T17:50:05.313",
+      "departmentId": 3
+   }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "msv-task",
+  "version": "1.0.0",
+  "description": "Mcv task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Andrew Ayman",
+  "dependencies": {
+    "ajax-client": "^3.0.3",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
